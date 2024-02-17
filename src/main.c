@@ -29,7 +29,8 @@
 
 /*---  Private Function Implementation  -------------------------------------------------------- */
 
-void main(void) {
+int main(void) {
+    return 0;
 }
 
 /*---  Public Function Implementation  --------------------------------------------------------- */
