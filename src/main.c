@@ -1,9 +1,9 @@
 /*
  * Copyright, Joel Jassan <joeljassan@hotmail.com>
  * Date: jan/2024
- * 
+ *
  * All rights reserved.
-*/
+ */
 
 /* ---  Headers files inclusions   ------------------------------------------------------------- */
 
@@ -29,11 +29,9 @@
 
 /*---  Private Function Implementation  -------------------------------------------------------- */
 
-void main(void){
-     
+void main(void) {
 }
 
 /*---  Public Function Implementation  --------------------------------------------------------- */
 
 /*---  End of File  ---------------------------------------------------------------------------- */
-
