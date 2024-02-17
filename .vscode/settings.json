@@ -1,0 +1,41 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "git.confirmSync": false,
+  "editor.formatOnSave": true,
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.wordBasedSuggestions": "off",
+    "editor.suggest.insertMode": "replace",
+    "editor.semanticHighlighting.enabled": true
+  },
+  "[vhdl]": {
+    "editor.defaultFormatter": "Vinrobot.vhdl-formatter",
+  },
+  "vhdl.formatter.align.all": true,
+  "vhdl.formatter.align.function": true,
+  "vhdl.formatter.align.generic": true,
+  "vhdl.formatter.align.port": true,
+  "vhdl.formatter.align.procedure": true,
+  "vhdl.formatter.case.keyword": "LowerCase",
+  "vhdl.formatter.case.typename": "LowerCase",
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "python.formatting.provider": "none",
+  "files.exclude": {
+    "**/*.pyc": {
+      "when": "$(basename).py"
+    },
+    "**/__pycache__": true,
+    ".pytest_cache": true,
+    ".coverage": true
+  },
+  "cmake.configureOnOpen": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "ceedlingExplorer.projectPath": "test",
+  "ceedlingExplorer.problemMatching": {},
+  "editor.wordWrapColumn": 100,
+  "editor.wordWrap": "wordWrapColumn",
+}
